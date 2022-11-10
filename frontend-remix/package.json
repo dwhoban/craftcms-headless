@@ -24,5 +24,20 @@
   },
   "engines": {
     "node": ">=14"
-  }
+  },
+  "name": "frontend-remix",
+  "description": "- [Remix Docs](https://remix.run/docs)",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwhoban/craftcms-headless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwhoban/craftcms-headless/issues"
+  },
+  "homepage": "https://github.com/dwhoban/craftcms-headless#readme"
 }
